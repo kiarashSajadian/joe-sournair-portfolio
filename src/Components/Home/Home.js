@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.css";
 
 import { Link } from "react-router-dom";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import transition from "../../transition";
 
 import Project1Img from "../../Images/project-1.png";
@@ -357,9 +357,13 @@ const Home = () => {
           </div>
           <div className="about-col">
             <div className="socials">
-              <a href="#">email &#8599;</a>
-              <a href="#">twitter &#8599;</a>
-              <a href="#">linkedin &#8599;</a>
+              <a href="mailto:hello@example.com">email &#8599;</a>
+              <a href="https://x.com" target="_blank" rel="noreferrer">
+                twitter &#8599;
+              </a>
+              <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+                linkedin &#8599;
+              </a>
             </div>
           </div>
         </div>
