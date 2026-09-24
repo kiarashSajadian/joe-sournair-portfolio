@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joe-sournair-portfolio/static/css/main.bd40d304.css",
+    "main.js": "/joe-sournair-portfolio/static/js/main.c0a70992.js",
+    "static/js/787.10726da3.chunk.js": "/joe-sournair-portfolio/static/js/787.10726da3.chunk.js",
+    "static/media/project-1.png": "/joe-sournair-portfolio/static/media/project-1.f6c118e1f96798f967b9.png",
+    "static/media/project-5.png": "/joe-sournair-portfolio/static/media/project-5.449679a35646fd9fd631.png",
+    "static/media/project-4.png": "/joe-sournair-portfolio/static/media/project-4.2814a56b6a1f16f88375.png",
+    "static/media/project-3.png": "/joe-sournair-portfolio/static/media/project-3.e23f33c73e356ae886ee.png",
+    "static/media/project-2.png": "/joe-sournair-portfolio/static/media/project-2.7a2ace1e603ac97a49e6.png",
+    "static/media/NeueMontreal-Medium.otf": "/joe-sournair-portfolio/static/media/NeueMontreal-Medium.b8bc39987e00659a8791.otf",
+    "static/media/NeueMontreal-Regular.otf": "/joe-sournair-portfolio/static/media/NeueMontreal-Regular.17e21dd57858de06e544.otf",
+    "static/media/noise.png": "/joe-sournair-portfolio/static/media/noise.1690cd3defa001b4f87e.png",
+    "index.html": "/joe-sournair-portfolio/index.html",
+    "main.bd40d304.css.map": "/joe-sournair-portfolio/static/css/main.bd40d304.css.map",
+    "main.c0a70992.js.map": "/joe-sournair-portfolio/static/js/main.c0a70992.js.map",
+    "787.10726da3.chunk.js.map": "/joe-sournair-portfolio/static/js/787.10726da3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd40d304.css",
+    "static/js/main.c0a70992.js"
+  ]
+}
